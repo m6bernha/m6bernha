@@ -1,22 +1,22 @@
 <h1 align="center">Hi, I'm Matthias 👋</h1>
 
 <p align="center">
-  Nanotechnology Engineering @ University of Waterloo. I build where electrochemical hardware meets data-heavy web apps — firmware and fluidics on one bench, DuckDB and FastAPI on the other.
+  NE @ Waterloo · I like to build cool stuff 🧪
 </p>
 
 ---
 
-- 🔬 Leading **GlycoTech** — a field-deployable electrochemical ethylene-glycol monitor for airport de-icing stormwater. UW Nanotech Eng capstone turning into a company.
+- 🔬 Designing a **field-deployable electrochemical monitor** for ethylene-glycol in airport de-icing stormwater — UW Nanotech Eng capstone.
 - 🏋️ Built **cpu-analytics** — a Canadian powerlifting data platform on OpenPowerlifting data, refreshed weekly.
 - 🧪 Open source: clean-room **cyclic voltammetry firmware** for the ADuCM355 evaluation board.
-- 📫 Reach me at **matthias.bernhard7@gmail.com**
+- 📫 Reach me at **m6bernha@uwaterloo.ca**
 
 ## Connect
 
 <p>
   <a href="https://www.linkedin.com/in/matthiasbernhard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/mattvireo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:matthias.bernhard7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:m6bernha@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## Tech Stack 💻
