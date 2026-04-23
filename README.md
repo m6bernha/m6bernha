@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Matthias 👋</h1>
 
-<!--
-**m6bernha/m6bernha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Nanotechnology Engineering @ University of Waterloo. I build where electrochemical hardware meets data-heavy web apps — firmware and fluidics on one bench, DuckDB and FastAPI on the other.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Leading **GlycoTech** — a field-deployable electrochemical ethylene-glycol monitor for airport de-icing stormwater. UW Nanotech Eng capstone turning into a company.
+- 🏋️ Built **cpu-analytics** — a Canadian powerlifting data platform on OpenPowerlifting data, refreshed weekly.
+- 🧪 Open source: clean-room **cyclic voltammetry firmware** for the ADuCM355 evaluation board.
+- 📫 Reach me at **matthias.bernhard7@gmail.com**
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/matthiasbernhard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/mattvireo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:matthias.bernhard7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## Tech Stack 💻
+
+**Backend & data**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parquet-50B7E0?style=for-the-badge&logo=apacheparquet&logoColor=white" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Firmware & hardware**
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Embedded-000000?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADuCM355-004E8C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electrochemistry-6A1B9A?style=for-the-badge" />
+</p>
+
+**Tooling**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+## Featured repos
+
+<p align="center">
+  <a href="https://github.com/m6bernha/cpu-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=cpu-analytics&theme=tokyonight" alt="cpu-analytics" />
+  </a>
+  <a href="https://github.com/m6bernha/aducm355-cv-firmware-public">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=aducm355-cv-firmware-public&theme=tokyonight" alt="aducm355-cv-firmware-public" />
+  </a>
+</p>
+
+## GitHub Stats 📈
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m6bernha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m6bernha&layout=compact&theme=tokyonight&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m6bernha&theme=tokyonight" alt="streak" />
+</p>
