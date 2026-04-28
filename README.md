@@ -6,9 +6,11 @@
 
 ---
 
-- 🔬 Designing a **field-deployable electrochemical monitor** for ethylene-glycol in airport de-icing stormwater — UW Nanotech Eng capstone.
-- 🏋️ Built **cpu-analytics** — a Canadian powerlifting data platform on OpenPowerlifting data, refreshed weekly.
-- 🧪 Open source: clean-room **cyclic voltammetry firmware** for the ADuCM355 evaluation board.
+- 🔬 Designing a **field-deployable electrochemical monitor** — UW Nanotech Eng capstone.
+- 🏋️ Built **cpu-analytics** — a Canadian powerlifting data platform on OpenPowerlifting data, refreshed weekly. [Live](https://cpu-analytics.vercel.app)
+- 🎵 Released **lyripop** — a Tauri desktop Spotify mini-player with synced lyrics, no ads, no telemetry.
+- 🛠️ Built **msb-extractor** — a Python CLI that exports MyStrengthBook training logs to a portable XLSX.
+- 🧪 Open source: clean-room **cyclic voltammetry firmware** for the ADuCM355 evaluation board (MIT).
 - 📫 Reach me at **m6bernha@uwaterloo.ca**
 
 ## Connect
@@ -28,6 +30,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Parquet-50B7E0?style=for-the-badge&logo=apacheparquet&logoColor=white" />
 </p>
@@ -39,6 +42,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Desktop & systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" />
 </p>
 
 **Firmware & hardware**
@@ -62,16 +72,34 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
-## Featured repos
+## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/m6bernha/cpu-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=cpu-analytics&theme=tokyonight" alt="cpu-analytics" />
-  </a>
-  <a href="https://github.com/m6bernha/aducm355-cv-firmware-public">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=aducm355-cv-firmware-public&theme=tokyonight" alt="aducm355-cv-firmware-public" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/m6bernha/cpu-analytics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=cpu-analytics&theme=tokyonight" alt="cpu-analytics" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/m6bernha/lyripop">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=lyripop&theme=tokyonight" alt="lyripop" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/m6bernha/aducm355-cv-firmware-public">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=aducm355-cv-firmware-public&theme=tokyonight" alt="aducm355-cv-firmware-public" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/m6bernha/msb-extractor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=msb-extractor&theme=tokyonight" alt="msb-extractor" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats 📈
 
@@ -81,5 +109,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m6bernha&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=m6bernha&theme=tokyonight" alt="streak" />
 </p>
