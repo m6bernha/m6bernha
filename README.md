@@ -109,5 +109,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=m6bernha&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=m6bernha&theme=tokyonight" alt="streak" />
 </p>
