@@ -6,9 +6,10 @@
 
 ---
 
-- 🔬 Designing a **field-deployable electrochemical monitor** — UW Nanotech Eng capstone.
+- 🧬 Co-founded **GlycoTech** — building a field-deployable electrochemical glucose monitor.
 - 🏋️ Built **cpu-analytics** — a Canadian powerlifting data platform on OpenPowerlifting data, refreshed weekly. [Live](https://cpu-analytics.vercel.app)
 - 🎵 Released **lyripop** — a Tauri desktop Spotify mini-player with synced lyrics, no ads, no telemetry.
+- 🃏 Built **mtg-edh-ladder-bot** — a TrueSkill + Elo ranked ladder for Magic: The Gathering Commander pods, as a self-hostable Discord bot on Cloudflare Workers + D1.
 - 🛠️ Built **msb-extractor** — a Python CLI that exports MyStrengthBook training logs to a portable XLSX.
 - 🧪 Open source: clean-room **cyclic voltammetry firmware** for the ADuCM355 evaluation board (MIT).
 - 📫 Reach me at **m6bernha@uwaterloo.ca**
@@ -51,6 +52,14 @@
   <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" />
 </p>
 
+**Edge & bots**
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
 **Firmware & hardware**
 
 <p>
@@ -74,39 +83,15 @@
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/m6bernha/cpu-analytics">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=cpu-analytics&theme=tokyonight" alt="cpu-analytics" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/m6bernha/lyripop">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=lyripop&theme=tokyonight" alt="lyripop" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/m6bernha/aducm355-cv-firmware-public">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=aducm355-cv-firmware-public&theme=tokyonight" alt="aducm355-cv-firmware-public" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/m6bernha/msb-extractor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m6bernha&repo=msb-extractor&theme=tokyonight" alt="msb-extractor" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Repo | Description | Stack |
+|---|---|---|
+| [**cpu-analytics**](https://github.com/m6bernha/cpu-analytics) | Canadian powerlifting data platform: cohort progression, athlete projection, lifter lookup, CPU qualifying-total coverage. OpenPowerlifting data refreshed weekly. [Live](https://cpu-analytics.vercel.app) | ![lang](https://img.shields.io/github/languages/top/m6bernha/cpu-analytics?style=flat-square) ![license](https://img.shields.io/github/license/m6bernha/cpu-analytics?style=flat-square) |
+| [**lyripop**](https://github.com/m6bernha/lyripop) | Floating always-on-top Spotify mini-player with synced lyrics. Ad-free, no telemetry. | ![lang](https://img.shields.io/github/languages/top/m6bernha/lyripop?style=flat-square) ![license](https://img.shields.io/github/license/m6bernha/lyripop?style=flat-square) ![stars](https://img.shields.io/github/stars/m6bernha/lyripop?style=flat-square) |
+| [**mtg-edh-ladder-bot**](https://github.com/m6bernha/mtg-edh-ladder-bot) | TrueSkill + Elo ranked ladder for Magic: The Gathering Commander pods, as a self-hostable Discord bot. $0/month on Cloudflare's free tier. | ![lang](https://img.shields.io/github/languages/top/m6bernha/mtg-edh-ladder-bot?style=flat-square) ![license](https://img.shields.io/github/license/m6bernha/mtg-edh-ladder-bot?style=flat-square) |
+| [**aducm355-cv-firmware-public**](https://github.com/m6bernha/aducm355-cv-firmware-public) | Clean-room cyclic voltammetry firmware for the ADuCM355 evaluation board. | ![lang](https://img.shields.io/github/languages/top/m6bernha/aducm355-cv-firmware-public?style=flat-square) ![license](https://img.shields.io/github/license/m6bernha/aducm355-cv-firmware-public?style=flat-square) |
+| [**msb-extractor**](https://github.com/m6bernha/msb-extractor) | Extracts your own MyStrengthBook training data into a portable, offline spreadsheet. Runs entirely on your machine. | ![lang](https://img.shields.io/github/languages/top/m6bernha/msb-extractor?style=flat-square) ![license](https://img.shields.io/github/license/m6bernha/msb-extractor?style=flat-square) |
 
 ## GitHub Stats 📈
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m6bernha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m6bernha&layout=compact&theme=tokyonight&langs_count=8" alt="top langs" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=m6bernha&theme=tokyonight" alt="streak" />
