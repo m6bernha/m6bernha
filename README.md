@@ -6,7 +6,7 @@
 
 ---
 
-- 🧬 Co-founded **GlycoTech** — building a field-deployable electrochemical glucose monitor.
+- 🧬 Co-founded **GlycoTech** — building a field-deployable electrochemical glycol monitor.
 - 🏋️ Built **cpu-analytics** — a Canadian powerlifting data platform on OpenPowerlifting data, refreshed weekly. [Live](https://cpu-analytics.vercel.app)
 - 🎵 Released **lyripop** — a Tauri desktop Spotify mini-player with synced lyrics, no ads, no telemetry.
 - 🃏 Built **mtg-edh-ladder-bot** — a TrueSkill + Elo ranked ladder for Magic: The Gathering Commander pods, as a self-hostable Discord bot on Cloudflare Workers + D1.
